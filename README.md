@@ -1,1 +1,1 @@
-# pipeline-as-code-demo
+# OpenShift Pipelines - Pipeline as Code
