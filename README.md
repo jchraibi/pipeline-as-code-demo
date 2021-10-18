@@ -1,1 +1,1 @@
-# pipeline-as-code-demo v6
+# pipeline-as-code-demo v7
